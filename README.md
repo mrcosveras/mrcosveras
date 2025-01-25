@@ -1,7 +1,7 @@
 # Sejam bem-vindos ao meu Github 👋
 
 - 🔶 <b> Olá, eu me chamo Marcos André Veras <br>
-- 💻 Análista de NOC e SOC [Nível 1] | BlueTeam <br>
+- 💻 Analista de NOC e SOC [Nível 1] | BlueTeam <br>
 - 📚 Sou um observador do universo que está em eterno aprendizado.
 
 ## Vamos nos conectar?
