@@ -7,7 +7,7 @@
 ## Vamos nos conectar?
 
 [![Linked In profile](https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linked%20In&color=0077B5&message=@mrcosveras)](https://www.linkedin.com/in/marcos-andr%C3%A9-veras-43b91a336/)
-[![Discord profile](https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&color=5865F2&message=@timozera)](https://discordapp.com/users/848326266457292871)
+[![Discord profile](https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&color=5865F2&message=@guard1an)](https://discordapp.com/users/848326266457292871)
 
 ## Tecnologias
 
